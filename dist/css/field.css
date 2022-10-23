@@ -1,0 +1,26 @@
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #4691f6;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+
+.svg-icon-error path,
+.svg-icon-error polygon,
+.svg-icon-error rect {
+  fill: #FF0000;
+}
+
+.svg-icon-error circle {
+  stroke: #FF0000;
+  stroke-width: 1;
+}
+
